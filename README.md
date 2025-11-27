@@ -30,16 +30,11 @@ Compile the program
 gcc advanced_calculator.c -o calculator
 
 
-Run the program
-
-./calculator
-
-
-Follow the on-screen menu to perform calculations. History will be saved automatically in history.txt.
 
 Collaboration
 
 Created by Awkash Rathore in collaboration with Mrs. Kasak.
+
 
 Notes
 
