@@ -23,7 +23,6 @@ Unit Conversions
 Calculation History: automatically saved to a file with timestamps
 
 
-Usage
 
 Compile the program
 
